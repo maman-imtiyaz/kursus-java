@@ -8,7 +8,7 @@ package angkaconvertion;
 /**
  * @author     : Maman 
  * kelas       : Logical with Java Hari Sabtu
- * create date : 
+ * create date : 01 November 2014
  * soal no.    : 
  * case        : Konversi angka
  */
